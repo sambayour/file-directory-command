@@ -1,0 +1,19 @@
+{
+  "name": "file-directory-command",
+  "version": "1.0.0",
+  "description": "A script to list and create directory in the memory, without actualy creating an actual file in the host computer",
+  "main": "directories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambayour/file-directory-command.git"
+  },
+  "author": "Samuel Olubayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambayour/file-directory-command/issues"
+  },
+  "homepage": "https://github.com/sambayour/file-directory-command#readme"
+}
