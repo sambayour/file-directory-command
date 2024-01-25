@@ -26,7 +26,7 @@ This project implements a simple directory management system in JavaScript using
 2. Change to project directory
 
    ```bash
-   cd directory-management-system
+   cd file-directory-command
    ```
 
 3. Run the project with the command below
