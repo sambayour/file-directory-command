@@ -2,7 +2,7 @@
   "name": "file-directory-command",
   "version": "1.0.0",
   "description": "A script to list and create directory in the memory, without actualy creating an actual file in the host computer",
-  "main": "directories.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
